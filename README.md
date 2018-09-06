@@ -15,8 +15,6 @@ bundle install
 bundle exec jekyll serve
 ```
 
-
-
 ## How to contribute
 
 ## File Structure
