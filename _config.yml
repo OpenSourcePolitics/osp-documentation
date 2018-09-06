@@ -1,23 +1,23 @@
 # ----
 # Site
 
-title: Documentation Admin Decidim
-url: "http://www.opensourcepolitics.eu/docs-admin-decidim/"
+title: OpenSourcePolitics MetaDocumentation
+url: "http://www.opensourcepolitics.eu/osp-documentation"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: OpenSourcePolitics MetaDocumentation WebSite
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name:
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    -
 
 # -----
 # Build
