@@ -20,6 +20,8 @@ Let's say you wanted to create a new file in the commercial category.
 * Click on `Commercial`.
 * Click on `Create new file`.
 
+* Fill the filename with your desired name :  e.g. `filename.md` (the .md is crucial)
+
 -> Your newly creatd document should appear.
 
 Since we use *Jekyll* to render our documentation you should copy add the following to the top of your document : 
