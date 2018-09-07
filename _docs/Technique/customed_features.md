@@ -1,4 +1,10 @@
-# CUSTOMED_FEATURES.md
+---
+title: Customed features on Decidim
+category: Commercial
+order: 1
+---
+
+# CUSTOMED_FEATURES on Decidim
 
 For each branch, please keep here the list of all OSP customed features with the precise, exhaustive list of all the commits that are concerned by each feature.
 ___
