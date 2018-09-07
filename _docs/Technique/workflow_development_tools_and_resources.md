@@ -1,3 +1,9 @@
+---
+title: Workflow, outils et ressources de développement
+category: Commercial
+order: 1
+---
+
 # [OSP][Decidim] Workflow, outils et ressources de développement
 
 ## Onboarding dev
