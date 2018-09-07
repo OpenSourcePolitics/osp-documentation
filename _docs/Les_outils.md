@@ -3,8 +3,6 @@ title: Les outils
 category: Commercial
 order: 1
 ---
-# Les outils
->
 Dans la vie de tous les jours, tu vas être amené.e à utiliser différents outils de communication interne, de gestion commerciale et de communication externe. 
 >
 ## 1. Communication interne
@@ -17,14 +15,14 @@ Dans la vie de tous les jours, tu vas être amené.e à utiliser différents out
 >
 Github sert (entre autres) à faire remonter les bugs et lancer le débat sur d'éventuelles améliorations. Pourquoi ne pas se contenter d'un message à l'équipe produit sur Rocket ? D'abord pour laisser une trace écrite et consultable par tous. Ensuite parce que c'est Github qui nous permet de travailler main dans la main avec tous les développeurs impliqués sur DECIDIM : de Paris à Barcelone en passant par Helsinki. On mutualise les problèmes mais aussi les  cerveaux disponibles. 
 >
-Pour apprendre à se servir de DECIDIM, cette exploration autonome a tout intérêt à être couplée avec une formation  directement sur le terrain lors de la formation d'un client. 
->
 ## 2. Outils de prise en main de DECIDIM
 >
 - La démo : https://demo.decidim.opensourcepolitics.eu/users/sign_in
-Il faut se balader dans la démo en simulant l'action d'un administrateur. Ne pas hésiter à tester toutes les fonctionnalités. A la moindre incompréhension, il ne faut pas hésiter à se reporter la notice : https://www.opensourcepolitics.eu/docs-admin-decidim/
+Il faut se balader dans la démo en simulant l'action d'un administrateur. Ne pas hésiter à tester absolument toutes les fonctionnalités. A la moindre incompréhension, il ne faut pas hésiter à se reporter la notice : https://www.opensourcepolitics.eu/docs-admin-decidim/
 >
 *Note : La notice elle-même est perfectible. Il ne faut pas hésiter à faire la remarque s'il manque certaines informations.*
+>
+Pour apprendre à se servir de DECIDIM, cette exploration autonome a tout intérêt à être couplée avec une formation  directement sur le terrain lors de la formation d'un client. 
 >
 **3. Communication externe**
 >
