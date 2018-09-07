@@ -3,6 +3,8 @@ title: Les outils
 category: Commercial
 order: 1
 ---
+# Les outils
+>
 Dans la vie de tous les jours, tu vas être amené.e à utiliser différents outils de communication interne, de gestion commerciale et de communication externe. 
 >
 ## 1. Communication interne
@@ -24,7 +26,7 @@ Il faut se balader dans la démo en simulant l'action d'un administrateur. Ne pa
 >
 Pour apprendre à se servir de DECIDIM, cette exploration autonome a tout intérêt à être couplée avec une formation  directement sur le terrain lors de la formation d'un client. 
 >
-**3. Communication externe**
+## 3. Communication externe
 >
 Actuellement, la communication externe est assurée principalement via Twitter (https://twitter.com/OpenSourcePol)  par Valentin Chaput et Virgile Déville. 
 >
