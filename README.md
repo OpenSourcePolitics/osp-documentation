@@ -1,7 +1,10 @@
 # Readme
 
+osp-documentation is a meta documentation around OpenSourcePolitics:
+[osp-documentation](https://osp-documentation.herokuapp.com/)
+
 ## How to contribute
-You can crontibute by creating files directly on github, this is currently the easiest method since it doesn't require configuration / dependencies installation.
+You can contribute by creating files directly on github, this is currently the easiest method since it doesn't require configuration / dependencies installation.
 
 ### File Structure
 The following folders contains the documents displayed on website :
@@ -38,7 +41,7 @@ Where `Exemple #1` is of course the title of your document.
 You will need to install `git`, `ruby`, and `jekyll`.
 
 ```bash
-git clone https://github.com/OpenSourcePolitics/osp-app.git
+git clone https://github.com/OpenSourcePolitics/osp-documenation.git
 gem install bundler
 bundle install
 ```
