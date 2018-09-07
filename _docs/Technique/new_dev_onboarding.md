@@ -1,3 +1,9 @@
+---
+title: Onboarding new dev
+category: Commercial
+order: 1
+---
+
 [Decidim] Onboarding new dev
 ===
 
