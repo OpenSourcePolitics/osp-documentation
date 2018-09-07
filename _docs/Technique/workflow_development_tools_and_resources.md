@@ -1,6 +1,6 @@
 ---
 title: Workflow, outils et ressources de développement
-category: Commercial
+category: Technique
 order: 1
 ---
 
