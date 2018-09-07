@@ -19,19 +19,19 @@ Dans la vie de tous les jours, tu vas être amené.e à utiliser différents out
 >
 ## 2. Outils de prise en main de DECIDIM
 >
-- La démo : https://demo.decidim.opensourcepolitics.eu/users/sign_in
-Il faut se balader dans la démo en simulant l'action d'un administrateur. Ne pas hésiter à tester absolument toutes les fonctionnalités. A la moindre incompréhension, il ne faut pas hésiter à se reporter la notice : https://www.opensourcepolitics.eu/docs-admin-decidim/
+- La démo : [Lien vers la démo](https://demo.decidim.opensourcepolitics.eu/users/sign_in)
+Il faut se balader dans la démo en simulant l'action d'un administrateur. Ne pas hésiter à tester absolument toutes les fonctionnalités. A la moindre incompréhension, il ne faut pas hésiter à se reporter à [la notice](https://www.opensourcepolitics.eu/docs-admin-decidim/)
 >
-*Note : La notice elle-même est perfectible. Il ne faut pas hésiter à faire la remarque s'il manque certaines informations.*
+*Note : [La notice](https://www.opensourcepolitics.eu/docs-admin-decidim/) elle-même est perfectible. Il ne faut pas hésiter à faire la remarque s'il manque certaines informations.*
 >
 Pour apprendre à se servir de DECIDIM, cette exploration autonome a tout intérêt à être couplée avec une formation  directement sur le terrain lors de la formation d'un client. 
 >
 ## 3. Communication externe
 >
-Actuellement, la communication externe est assurée principalement via Twitter (https://twitter.com/OpenSourcePol)  par Valentin Chaput et Virgile Déville. 
+Actuellement, la communication externe est assurée principalement via [Twitter](https://twitter.com/OpenSourcePol)  par Valentin Chaput et Virgile Déville. 
 >
-Nos articles sont mis en ligne sur Medium : https://medium.com/open-source-politics
+Nos articles sont mis en ligne sur [Medium](https://medium.com/open-source-politics)
 >
-Il existe également une page Linkedin :https://www.linkedin.com/company/open-source-politics/
+Il existe également une page [Linkedin](https://www.linkedin.com/company/open-source-politics/)
 >
 
