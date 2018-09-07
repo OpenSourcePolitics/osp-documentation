@@ -15,7 +15,7 @@ Dans la vie de tous les jours, tu vas être amené.e à utiliser différents out
 >
 - **Github** : c'est l'outil qui peut faire peur. L'outil qui te connecte directement avec l'ensemble du travail technique qui est effectué sur le produit. Une bonne et une mauvaise nouvelle : la mauvaise, c'est qu'on ne peut pas vraiment y échapper pour aider les développeurs à répondre à la demande des clients - et accéssoirement comprendre à quelque points leur travail est vital. La bonne nouvelle, c'est que ce n'est pas compliqué de comprendre la logique de cet outil. 
 >
-Github sert (entre autres) à faire remonter les bugs et lancer le débat sur d'éventuelles améliorations. Pourquoi ne pas se contenter d'un message à l'équipe produit sur Rocket ? D'abord pour laisser une trace écrite et consultable par tous. Ensuite parce que c'est Github qui nous permet de travailler main dans la main avec tous les développeurs impliqués sur DECIDIM : de Paris à Barcelone en passant par Helsinki. On mutualise les problèmes mais aussi les  cerveaux disponibles. 
+**Github** sert (entre autres) à faire remonter les bugs et lancer le débat sur d'éventuelles améliorations. Pourquoi ne pas se contenter d'un message à l'équipe produit sur **Rocketchat** ? D'abord pour laisser une trace écrite et consultable par tous. Ensuite parce que c'est **Github** qui nous permet de travailler main dans la main avec tous les développeurs impliqués sur **DECIDIM** : de Paris à Barcelone en passant par Helsinki. On mutualise les problèmes mais aussi les  cerveaux disponibles. 
 >
 ## 2. Outils de prise en main de DECIDIM
 >
