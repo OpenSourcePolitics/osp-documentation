@@ -1,6 +1,6 @@
 ---
 title: Customed features on Decidim
-category: Commercial
+category: Technique
 order: 1
 ---
 
