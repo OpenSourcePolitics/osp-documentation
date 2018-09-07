@@ -3,6 +3,8 @@
 osp-documentation is a meta documentation around OpenSourcePolitics:
 [osp-documentation](https://osp-documentation.herokuapp.com/)
 
+You must be a member of the github documentation team to access this website.
+
 ## How to contribute
 You can contribute by creating files directly on github, this is currently the easiest method since it doesn't require configuration / dependencies installation.
 
