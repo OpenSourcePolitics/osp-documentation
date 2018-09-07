@@ -1,6 +1,6 @@
 ---
 title: Onboarding new dev
-category: Commercial
+category: Technique
 order: 1
 ---
 
