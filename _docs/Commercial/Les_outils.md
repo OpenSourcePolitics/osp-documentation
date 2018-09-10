@@ -4,7 +4,7 @@ category: Commercial
 order: 1
 ---
 # Les outils
->
+
 Dans la vie de tous les jours, tu vas être amené.e à utiliser différents outils de communication interne, de gestion commerciale et de communication externe. 
 >
 ## 1. Communication interne
@@ -33,5 +33,5 @@ Actuellement, la communication externe est assurée principalement via [Twitter]
 Nos articles sont mis en ligne sur [Medium](https://medium.com/open-source-politics)
 >
 Il existe également une page [Linkedin](https://www.linkedin.com/company/open-source-politics/)
->
+
 
