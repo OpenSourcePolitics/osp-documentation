@@ -1,5 +1,5 @@
 ---
-title: Decidim : Doc d’usage & résolution de bugs
+title: Decidim Doc d’usage résolution de bugs
 category: Technique
 order: 1
 ---
