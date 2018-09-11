@@ -1,5 +1,5 @@
 ---
-title: Decidim : QA / FAQ
+title: Decidim : QA - FAQ
 category: Technique
 order: 1
 ---
