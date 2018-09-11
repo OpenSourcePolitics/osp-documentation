@@ -39,3 +39,7 @@ Machines vary, but there is a limit to the number of open files or processes run
   ```
   * Repeat until it's working. If not, revert the original value.
 
+## Heroku Precompiling assets failed :
+* Remove assets directory from `.gitignore`.
+* enter `NODE_ENV=production RAILS_ENV=production rails assets:precompile --trace`
+* Commit your precompiled assets and deploy again.
